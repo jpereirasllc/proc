@@ -1,0 +1,17 @@
+
+
+
+gcc processoInicial.c 
+prototipos.h 
+dados\entradaDados.c 
+codificacao\codificacaoNumerosString.c 
+codificacao\numerosEntrada.c 
+codificacao\numerosString.c 
+codificacao\somaNumeros.c 
+decodificacao\converteStringNumeros.c 
+decodificacao\gerarCaracteres.c 
+decodificacao\modificaSinal.c 
+decodificacao\numerosEntradaCodificada.c 
+decodificacao\numerosEntradaCodificadora.c 
+decodificacao\subtracaoNumeros.c 
+-o cod 
