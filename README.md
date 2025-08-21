@@ -1,6 +1,6 @@
 # proc
 
-Projeto de criptografia simétrica simples em Linguagem C. Eu desenvolvi este programa apenas para exercitar minha lógica de programação.
+Projeto de criptografia simétrica simples em Linguagem C. Eu desenvolvi este programa apenas para colocar em prática os estudos bem como exercitar minha lógica de programação.
 
 Não é um programa eficiente em termos de performance computacional pois consome muitos recursos de memória chegando a ser bastante arcaico do ponto de vista da engenharia de software e segurança cibernética.
 
